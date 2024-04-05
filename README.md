@@ -1,5 +1,7 @@
 # 3D_city
 How to Build a 3D City from Scratch with LiDAR Data
+
+![alt text](https://github.com/Saratha84/3D_city/blob/main/3d_city.png?raw=true)
 🌍 Passionate about utilizing LiDAR and orthophoto data to craft immersive 3D city maps and visualizations!
 
 Combining expertise in geospatial analysis, R programming, and rayshader package to create captivating 3D city models. LiDAR technology, leveraging laser pulses, precisely measures object distance and elevation, while orthophoto data offers geometrically corrected aerial photographs, enabling the creation of detailed city landscapes.
